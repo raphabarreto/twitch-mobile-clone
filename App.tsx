@@ -10,7 +10,7 @@ import {
 
 import Routes from './src/routes';
 
-export default function App() {
+const App: React.FC = () => {
   let [fontsLoaded] = useFonts({
     roboto_400: Roboto_400Regular,
     roboto_500: Roboto_500Medium,
@@ -27,4 +27,6 @@ export default function App() {
       <StatusBar style="light" />
     </>
   );
-}
+};
+
+export default App;

@@ -48,7 +48,7 @@ Esta aplicação é uma reprodução do aplicativo mobile [Twitch](https://www.t
 
 ## 📱 Resultado
 <h1 align="center">
-    <img alt="Input Mask" title="#delicinha" src="https://res.cloudinary.com/raphael-barreto/image/upload/v1599413547/.github/twitch-mobile-clone.gif" width="250px" />
+    <img alt="Twitch Mobile Clone" title="#delicinha" src="https://res.cloudinary.com/raphael-barreto/image/upload/v1599413547/.github/twitch-mobile-clone.gif?raw=true" width="250px" />
 </h1>
 
 
